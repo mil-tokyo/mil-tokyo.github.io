@@ -82,7 +82,7 @@ h3 {
 }
 
 h4 {
-  font-size: 21px;
+  font-size: 18px;
 }
 
 h5 {
@@ -96,6 +96,16 @@ h6 {
 p {
   margin: 10px 0 15px 0;
 }
+
+p.p1
+{
+    padding-left: 0em;
+    text-indent: 1em;
+}
+
+cite {
+    font-style: italic;
+} 
 
 footer p {
   color: #f2f2f2;
