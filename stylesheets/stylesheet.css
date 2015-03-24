@@ -103,9 +103,14 @@ p.p1
     text-indent: 1em;
 }
 
+p.p2
+{
+  margin: 3px 0 0px 0;
+}
+
 cite {
     font-style: italic;
-} 
+}
 
 footer p {
   color: #f2f2f2;
